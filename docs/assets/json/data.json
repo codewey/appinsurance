@@ -1,0 +1,176 @@
+{
+  "policyDetailsLife": {
+    "name": "LIFE INSURANCE",
+    "policyNumber": "1890112982",
+    "status": "Premium Paying",
+    "premiumDueDate": "04/20/2019",
+    "insuredName": "Sam Smith",
+    "faceAmount": "Php 2,000,000.00",
+    "paymentMode": "Quarterly",
+    "premiumAmount": "Php 8,731.50",
+    "regularlyBilledExcessPremium": "Php 268.50",
+    "totalAmountDue": "Php 0.00",
+    "coverage": {
+      "coverage1": {
+        "name": "Accidental Death Dismemberment and Disablement Benefit",
+        "details": {
+          "status": "Premium Paying",
+          "faceAmount": "Php 2,000,000.00",
+          "maturityDate": "10/20/2056"
+        }
+      },
+      "coverage2": {
+        "name": "Critical Illness",
+        "details": {
+          "status": "Premium Paying",
+          "faceAmount": "Php 600,000.00",
+          "maturityDate": "10/20/2056"
+        }
+      },
+      "coverage3": {
+        "name": "Total Disability Benefit",
+        "details": {
+          "status": "Premium Paying",
+          "faceAmount": "-null",
+          "maturityDate": "10/20/2046"
+        }
+      }
+    },
+    "beneficiary": {
+      "beneficiary1": {
+        "name": "Jen Smith",
+        "relationship": "Wife",
+        "primaryContingent": "Primary",
+        "revocableIrrevocable": "Revocable"
+      },
+      "beneficiary2": {
+        "name": "Ken Smith",
+        "relationship": "Son",
+        "primaryContingent": "Primary",
+        "revocableIrrevocable": "Revocable"
+      },
+      "beneficiary3": {
+        "name": "Jen Smith",
+        "relationship": "Wife",
+        "primaryContingent": "Primary",
+        "revocableIrrevocable": "Revocable"
+      }
+    }
+  },
+  "policyDetailsHealth": {
+    "name": "HEALTH INSURANCE",
+    "policyNumber": "1112345678",
+    "status": "Premium Paying",
+    "premiumDueDate": "03/20/2019",
+    "insuredName": "Sam Smith",
+    "faceAmount": "Php 2,000,000.00",
+    "paymentMode": "Quarterly",
+    "premiumAmount": "Php 8,731.50",
+    "regularlyBilledExcessPremium": "Php 268.50",
+    "totalAmountDue": "Php 0.00",
+    "coverage": {
+      "coverage1": {
+        "name": "Accidental Death Dismemberment and Disablement Benefit",
+        "details": {
+          "status": "Premium Paying",
+          "faceAmount": "Php 2,000,000.00",
+          "maturityDate": "09/20/2056"
+        }
+      },
+      "coverage2": {
+        "name": "Critical Illness",
+        "details": {
+          "status": "Premium Paying",
+          "faceAmount": "Php 600,000.00",
+          "maturityDate": "09/20/2056"
+        }
+      },
+      "coverage3": {
+        "name": "Total Disability Benefit",
+        "details": {
+          "status": "Premium Paying",
+          "faceAmount": "-null",
+          "maturityDate": "09/20/2046"
+        }
+      }
+    },
+    "beneficiary": {
+      "beneficiary1": {
+        "name": "Jen Smith",
+        "relationship": "Wife",
+        "primaryContingent": "Primary",
+        "revocableIrrevocable": "Revocable"
+      },
+      "beneficiary2": {
+        "name": "Ken Smith",
+        "relationship": "Son",
+        "primaryContingent": "Primary",
+        "revocableIrrevocable": "Revocable"
+      },
+      "beneficiary3": {
+        "name": "Jen Smith",
+        "relationship": "Wife",
+        "primaryContingent": "Primary",
+        "revocableIrrevocable": "Revocable"
+      }
+    }
+  },
+  "policyDetailsCar": {
+    "name": "CAR INSURANCE",
+    "policyNumber": "32124567",
+    "status": "Premium Paying",
+    "premiumDueDate": "01/15/2019",
+    "insuredName": "Sam Smith",
+    "faceAmount": "Php 1,600,000.00",
+    "paymentMode": "Monthly",
+    "premiumAmount": "Php 15,731.50",
+    "regularlyBilledExcessPremium": "Php 268.50",
+    "totalAmountDue": "Php 0.00",
+    "coverage": {
+      "coverage1": {
+        "name": "Own Damage and Theft",
+        "details": {
+          "status": "",
+          "faceAmount": "",
+          "maturityDate": ""
+        }
+      },
+      "coverage2": {
+        "name": "Acts of God/Nature",
+        "details": {
+          "status": "",
+          "faceAmount": "",
+          "maturityDate": ""
+        }
+      },
+      "coverage3": {
+        "name": "Auto Passenger",
+        "details": {
+          "status": "",
+          "faceAmount": "",
+          "maturityDate": ""
+        }
+      }
+    },
+    "beneficiary": {
+      "beneficiary1": {
+        "name": "Jen Smith",
+        "relationship": "Wife",
+        "primaryContingent": "Primary",
+        "revocableIrrevocable": "Revocable"
+      },
+      "beneficiary2": {
+        "name": "Ken Smith",
+        "relationship": "Son",
+        "primaryContingent": "Primary",
+        "revocableIrrevocable": "Revocable"
+      },
+      "beneficiary3": {
+        "name": "Jen Smith",
+        "relationship": "Wife",
+        "primaryContingent": "Primary",
+        "revocableIrrevocable": "Revocable"
+      }
+    }
+  }
+}
